@@ -147,8 +147,4 @@ body {
   padding-right: 10px;
   padding-left: 10px;
   padding-right: 10px;
-  background-color: red; /* Replace 'path-to-your-image.jpg' with the actual path to your image */
-  background-repeat: no-repeat; /* Prevent the image from repeating */
-  background-size: cover; /* Cover the entire background */
-  background-position: center center; /* Center the image horizontally and vertically */
 }
